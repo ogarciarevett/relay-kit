@@ -1,5 +1,17 @@
 # @reservoir0x/relay-kit-ui
 
+## 9.0.0
+
+### Major Changes
+
+- 4149ded: Remove Sui support
+
+### Patch Changes
+
+- Updated dependencies [4149ded]
+  - @relayprotocol/relay-sdk@6.0.0
+  - @relayprotocol/relay-kit-hooks@3.0.19
+
 ## 8.0.12
 
 ### Patch Changes

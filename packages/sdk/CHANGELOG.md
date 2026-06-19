@@ -1,5 +1,11 @@
 # @reservoir0x/relay-sdk
 
+## 6.0.0
+
+### Major Changes
+
+- 4149ded: Remove Sui support
+
 ## 5.2.8
 
 ### Patch Changes
